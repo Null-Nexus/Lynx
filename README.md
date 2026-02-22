@@ -1,4 +1,4 @@
-# Proyecto Desarrollo Web.
+# Proyecto Desarrollo Web
 
 Elaborado por:  
 Trinidad Potrero Josue  
@@ -68,7 +68,7 @@ Existen dos perfiles principales dentro de los usuarios:
 
 **Objetivo:** definir las funciones imprescindibles para que tu proyecto cumpla su propósito.
 
-![][image1]
+![Análisis de actividad][./img/analisis_actividad.jpeg]
 
 * Contar con personal fiable para llevar a cabo las asesorías.  
 * Utilizar una interfaz limpia y de fácil comprensión.  
@@ -78,16 +78,13 @@ Existen dos perfiles principales dentro de los usuarios:
 * Manera de formar equipos para actividades que lo requieran.  
 * Pantalla o ventana donde aparezcan las tareas completadas, faltantes y recientes.  
 * Interfaz limpia.  
-  ![][image2]  
-  ![][image3]  
-  ![][image4]  
-  ![][image5]  
-  ![][image6]  
-  ![][image7]  
-  ![][image8]  
+  ![Requerimiento 1][./img/req1.jpeg]  
+  ![Requerimiento 2][./img/req2.jpeg]  
+  ![Requerimiento 3][./img/req3.jpeg]  
+  ![Requerimiento 4][./img/req4.jpeg]  
+  ![Requerimiento 4][./img/req5.jpeg]  
+  ![Requerimiento 5][./img/req6.jpeg]  
     
-    
-  
 
 
 5\. Paso 4: Requerimientos adicionales.
