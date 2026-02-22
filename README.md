@@ -6,7 +6,7 @@ Trinidad Potrero Josue
 Martínez Rodríguez Fernando  
 Quiñones Valles Pamela  
 Aguilar Buendia Bruno  
-Hernández Mendoza Daniela Itzel
+Mendoza Hernandez Daniela Itzel
 
 # Comprendamos el propósito.  
 Este proyecto surge ante la necesidad de la comunidad universitaria de la Fes Acatlán, de no encontrar una manera de como liberar su servicio social o tomar asesorías con tutores (adjuntos) preparados en la materia de su elección para mejorar su aprovechamiento escolar, como requisitos el estudiantado que quiera hacer su servicio social dando asesorías deberá cumplir con los créditos necesarios de acuerdo a su carrera, además de haber acreditado un examen de prueba con una calificación aprobatoria mínima de 8 para constar de su alto dominio en la materia, el alumno que solicite asesorías tendrá que estar inscrito al semestre en curso.
